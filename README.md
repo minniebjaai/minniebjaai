@@ -5,7 +5,7 @@ Explore my projects, which showcase my passion for using data to drive impactful
 - 👀 I’m interested in utlizing data analytics to further enhance environmental/ocean conservation!
 - Previous project I have worked on include:
 - **Kelp Mapping with Drones**: Utilized drone technology and GIS to create time-series maps of kelp forests, boosting data accuracy by 20%.
-- ** Coral Restoration Interactive Map: Created Mo'orea's FIRST interactive coral restoration siting map utilizing drone imagery, AI segmentation, and environmental data. This led to practitioners finding the perfect location on the island of Mo'orea to outplant coral to rebuild reefs. 
+- Coral Restoration Interactive Map: Created Mo'orea's FIRST interactive coral restoration siting map utilizing drone imagery, AI segmentation, and environmental data. This led to practitioners finding the perfect location on the island of Mo'orea to outplant coral to rebuild reefs. 
 - **Customer Churn Prediction**: Built a machine learning model using KNN to predict customer churn, enabling targeted retention efforts. 
 - 💞️ I’m looking to collaborate on any projects that involve environmental data OR needs a lot of brain power to work through.
 - 📫 How to reach me:
